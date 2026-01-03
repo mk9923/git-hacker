@@ -1,0 +1,4 @@
+This is first test file 
+git init- to intisalize git in our project
+git status-is used to tell that the files you added or changed or give info about files you addesd in that project
+Staging -spesify which files send to local
